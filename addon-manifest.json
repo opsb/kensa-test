@@ -1,0 +1,11 @@
+{
+  "id": "msd",
+  "api": {
+    "config_vars": [ "MSD_HOME_PAGE" ],
+    "username": "heroku",
+    "password": "b1EWrHYXE1R5J71D",
+    "sso_salt": "B533xBWJcyY3eE5G",
+    "production": "https://yourapp.com/",
+    "test": "http://localhost:4567/"
+  }
+}
