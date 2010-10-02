@@ -1,7 +1,7 @@
 {
-  "id": "msd",
+  "id": "KP",
   "api": {
-    "config_vars": [ "MSD_HOME_PAGE" ],
+    "config_vars": [ "KP_HOME_PAGE" ],
     "username": "heroku",
     "password": "b1EWrHYXE1R5J71D",
     "sso_salt": "B533xBWJcyY3eE5G",
