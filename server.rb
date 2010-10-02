@@ -9,3 +9,7 @@ end
 post '/heroku/resources' do
   { :id => 1 }.to_json
 end
+
+delete '/heroku/resources/:id' do
+  "ok"
+end
