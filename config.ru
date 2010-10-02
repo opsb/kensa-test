@@ -1,2 +1,3 @@
-require 'server.rb'
+require 'lib/kensa-test'
+run Sinatra::Application
 
