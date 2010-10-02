@@ -7,9 +7,7 @@ use Rack::Auth::Basic do |username, password|
 end
 
 post '/heroku/resources' do
-  vars = { :id => 1, "KP_HOME_PAGE" => "http://google.com" }.to_json
-  puts vars.inspect
-  vars
+  { :id => 1, "KP_HOME_PAGE" => "http://google.com" }.to_json
 end
 
 delete '/heroku/resources/:id' do

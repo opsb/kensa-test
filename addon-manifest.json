@@ -6,6 +6,6 @@
     "password": "b1EWrHYXE1R5J71D",
     "sso_salt": "B533xBWJcyY3eE5G",
     "production": "http://warm-ocean-51.heroku.com/",
-    "test": "http://localhost:4567/"
+    "test": "http://warm-ocean-51.heroku.com/"
   }
 }
